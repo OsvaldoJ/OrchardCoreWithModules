@@ -1,0 +1,389 @@
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Setup.deps.json
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Setup.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\Microsoft.Win32.Primitives.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\mscorlib.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\netstandard.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.AppContext.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Collections.Concurrent.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Collections.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Collections.NonGeneric.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Collections.Specialized.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.Composition.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.Primitives.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.TypeConverter.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Console.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Core.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Data.Common.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Data.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Contracts.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Debug.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Process.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.StackTrace.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Tools.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.TraceSource.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Tracing.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Drawing.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Drawing.Primitives.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Dynamic.Runtime.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Globalization.Calendars.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Globalization.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Globalization.Extensions.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.Compression.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.Compression.FileSystem.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.Compression.ZipFile.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.Primitives.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.Watcher.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.IsolatedStorage.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.MemoryMappedFiles.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.Pipes.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Linq.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Linq.Expressions.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Linq.Parallel.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Linq.Queryable.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Http.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.NameResolution.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.NetworkInformation.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Ping.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Primitives.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Requests.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Security.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Sockets.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.WebHeaderCollection.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.WebSockets.Client.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.WebSockets.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Numerics.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ObjectModel.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Reflection.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Reflection.Extensions.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Reflection.Primitives.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Resources.Reader.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Resources.ResourceManager.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Resources.Writer.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Extensions.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Handles.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.InteropServices.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Numerics.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Json.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Xml.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Claims.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Csp.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Encoding.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Primitives.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Principal.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.SecureString.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ServiceModel.Web.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Text.Encoding.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Text.Encoding.Extensions.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Text.RegularExpressions.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Overlapped.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Tasks.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Tasks.Parallel.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Thread.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.ThreadPool.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Timer.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Transactions.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ValueTuple.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Web.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Windows.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.Linq.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.ReaderWriter.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.Serialization.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XDocument.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XmlDocument.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XmlSerializer.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XPath.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XPath.XDocument.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Setup.Views.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Abstractions.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Data.Abstractions.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Data.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Module.Targets.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Recipes.Abstractions.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Setup.Abstractions.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Setup.Core.dll
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.csprojAssemblyReference.cache
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.csproj.CoreCompileInputs.cache
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.RazorAssemblyInfo.cache
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.RazorAssemblyInfo.cs
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.AssemblyInfoInputs.cache
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.AssemblyInfo.cs
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.TagHelpers.input.cache
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.TagHelpers.output.cache
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.RazorCoreGenerate.cache
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\Razor\Views\Setup\Index.g.cshtml.cs
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\Razor\Views\_Layout.g.cshtml.cs
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\Razor\Views\_ViewImports.g.cshtml.cs
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.RazorTargetAssemblyInfo.cache
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.RazorTargetAssemblyInfo.cs
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.csproj.CopyComplete
+C:\inetpub\wwwroot\OrchardCore-1.0.0-beta3\src\OrchardCore.Modules\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Setup.deps.json
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Setup.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Setup.pdb
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\Microsoft.Win32.Primitives.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\mscorlib.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\netstandard.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.AppContext.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Collections.Concurrent.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Collections.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Collections.NonGeneric.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Collections.Specialized.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.Composition.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.EventBasedAsync.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.Primitives.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.TypeConverter.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Console.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Core.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Data.Common.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Data.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Contracts.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Debug.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.FileVersionInfo.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Process.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.StackTrace.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Tools.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.TraceSource.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Tracing.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Drawing.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Drawing.Primitives.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Dynamic.Runtime.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Globalization.Calendars.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Globalization.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Globalization.Extensions.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.Compression.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.Compression.FileSystem.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.Compression.ZipFile.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.DriveInfo.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.Primitives.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.Watcher.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.IsolatedStorage.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.MemoryMappedFiles.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.Pipes.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.UnmanagedMemoryStream.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Linq.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Linq.Expressions.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Linq.Parallel.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Linq.Queryable.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Http.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.NameResolution.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.NetworkInformation.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Ping.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Primitives.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Requests.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Security.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Sockets.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.WebHeaderCollection.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.WebSockets.Client.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.WebSockets.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Numerics.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ObjectModel.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Reflection.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Reflection.Extensions.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Reflection.Primitives.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Resources.Reader.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Resources.ResourceManager.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Resources.Writer.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.CompilerServices.VisualC.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Extensions.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Handles.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.InteropServices.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Numerics.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Formatters.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Json.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Primitives.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Xml.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Claims.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Algorithms.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Csp.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Encoding.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Primitives.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.X509Certificates.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Principal.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.SecureString.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ServiceModel.Web.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Text.Encoding.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Text.Encoding.Extensions.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Text.RegularExpressions.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Overlapped.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Tasks.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Tasks.Parallel.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Thread.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.ThreadPool.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Timer.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Transactions.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ValueTuple.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Web.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Windows.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.Linq.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.ReaderWriter.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.Serialization.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XDocument.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XmlDocument.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XmlSerializer.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XPath.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XPath.XDocument.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.dll
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.pdb
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.csprojAssemblyReference.cache
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.csproj.CoreCompileInputs.cache
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.AssemblyInfoInputs.cache
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.AssemblyInfo.cs
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.csproj.CopyComplete
+D:\moduleImplementation\WebApplication2\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.pdb
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Setup.deps.json
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Setup.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.Setup.pdb
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\Microsoft.Win32.Primitives.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\mscorlib.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\netstandard.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.AppContext.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Collections.Concurrent.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Collections.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Collections.NonGeneric.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Collections.Specialized.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.Composition.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.EventBasedAsync.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.Primitives.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ComponentModel.TypeConverter.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Console.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Core.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Data.Common.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Data.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Contracts.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Debug.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Process.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.StackTrace.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Tools.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.TraceSource.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Diagnostics.Tracing.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Drawing.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Drawing.Primitives.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Dynamic.Runtime.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Globalization.Calendars.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Globalization.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Globalization.Extensions.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.Compression.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.Compression.FileSystem.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.Compression.ZipFile.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.DriveInfo.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.Primitives.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.FileSystem.Watcher.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.IsolatedStorage.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.MemoryMappedFiles.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.Pipes.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.IO.UnmanagedMemoryStream.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Linq.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Linq.Expressions.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Linq.Parallel.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Linq.Queryable.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Http.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.NameResolution.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.NetworkInformation.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Ping.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Primitives.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Requests.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Security.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.Sockets.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.WebHeaderCollection.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.WebSockets.Client.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Net.WebSockets.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Numerics.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ObjectModel.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Reflection.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Reflection.Extensions.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Reflection.Primitives.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Resources.Reader.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Resources.ResourceManager.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Resources.Writer.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Extensions.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Handles.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.InteropServices.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Numerics.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Formatters.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Json.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Primitives.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Runtime.Serialization.Xml.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Claims.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Algorithms.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Csp.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Encoding.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.Primitives.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.Principal.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Security.SecureString.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ServiceModel.Web.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Text.Encoding.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Text.Encoding.Extensions.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Text.RegularExpressions.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Overlapped.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Tasks.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Tasks.Parallel.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Thread.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.ThreadPool.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Threading.Timer.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Transactions.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.ValueTuple.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Web.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Windows.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.Linq.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.ReaderWriter.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.Serialization.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XDocument.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XmlDocument.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XmlSerializer.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XPath.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\refs\System.Xml.XPath.XDocument.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\bin\Debug\netstandard2.0\OrchardCore.pdb
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.csprojAssemblyReference.cache
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.csproj.CoreCompileInputs.cache
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.AssemblyInfoInputs.cache
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.AssemblyInfo.cs
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.csproj.CopyComplete
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore.Setup\obj\Debug\netstandard2.0\OrchardCore.Setup.pdb

@@ -1,0 +1,9 @@
+{
+  "Default": {
+    "State": "Running"
+  },
+  "test": {
+    "RequestUrlPrefix": "teste",
+    "State": "Running"
+  }
+}

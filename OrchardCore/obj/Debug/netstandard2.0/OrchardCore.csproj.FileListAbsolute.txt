@@ -1,0 +1,18 @@
+D:\moduleImplementation\WebApplication2\OrchardCore\bin\Debug\netstandard2.0\OrchardCore.deps.json
+D:\moduleImplementation\WebApplication2\OrchardCore\bin\Debug\netstandard2.0\OrchardCore.dll
+D:\moduleImplementation\WebApplication2\OrchardCore\obj\Debug\netstandard2.0\OrchardCore.csproj.CoreCompileInputs.cache
+D:\moduleImplementation\WebApplication2\OrchardCore\obj\Debug\netstandard2.0\OrchardCore.AssemblyInfoInputs.cache
+D:\moduleImplementation\WebApplication2\OrchardCore\obj\Debug\netstandard2.0\OrchardCore.AssemblyInfo.cs
+D:\moduleImplementation\WebApplication2\OrchardCore\obj\Debug\netstandard2.0\OrchardCore.csprojAssemblyReference.cache
+D:\moduleImplementation\WebApplication2\OrchardCore\bin\Debug\netstandard2.0\OrchardCore.pdb
+D:\moduleImplementation\WebApplication2\OrchardCore\obj\Debug\netstandard2.0\OrchardCore.dll
+D:\moduleImplementation\WebApplication2\OrchardCore\obj\Debug\netstandard2.0\OrchardCore.pdb
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore\bin\Debug\netstandard2.0\OrchardCore.deps.json
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore\bin\Debug\netstandard2.0\OrchardCore.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore\bin\Debug\netstandard2.0\OrchardCore.pdb
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore\obj\Debug\netstandard2.0\OrchardCore.csprojAssemblyReference.cache
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore\obj\Debug\netstandard2.0\OrchardCore.csproj.CoreCompileInputs.cache
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore\obj\Debug\netstandard2.0\OrchardCore.AssemblyInfoInputs.cache
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore\obj\Debug\netstandard2.0\OrchardCore.AssemblyInfo.cs
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore\obj\Debug\netstandard2.0\OrchardCore.dll
+C:\Users\Shahid Ullah\Desktop\OCms\OrchardCore\obj\Debug\netstandard2.0\OrchardCore.pdb

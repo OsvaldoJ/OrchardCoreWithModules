@@ -1,0 +1,35 @@
+D:\moduleImplementation\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.deps.json
+D:\moduleImplementation\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.json
+D:\moduleImplementation\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.dev.json
+D:\moduleImplementation\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.dll
+D:\moduleImplementation\WebApplication2\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.pdb
+D:\moduleImplementation\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csprojAssemblyReference.cache
+D:\moduleImplementation\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csproj.CoreCompileInputs.cache
+D:\moduleImplementation\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cache
+D:\moduleImplementation\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cs
+D:\moduleImplementation\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfoInputs.cache
+D:\moduleImplementation\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfo.cs
+D:\moduleImplementation\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cache
+D:\moduleImplementation\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.dll
+D:\moduleImplementation\WebApplication2\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.pdb
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\bin\Debug\netcoreapp2.2\App_Data\Sites\Default\appsettings.json
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\bin\Debug\netcoreapp2.2\App_Data\Sites\test\appsettings.json
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\bin\Debug\netcoreapp2.2\App_Data\Sites\test\ContentDefinition.json
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\bin\Debug\netcoreapp2.2\App_Data\tenants.json
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.deps.json
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.json
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.runtimeconfig.dev.json
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.dll
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\bin\Debug\netcoreapp2.2\WebApplication2.pdb
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csprojAssemblyReference.cache
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cache
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorAssemblyInfo.cs
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfoInputs.cache
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.AssemblyInfo.cs
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.RazorTargetAssemblyInfo.cache
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.dll
+C:\Users\Shahid Ullah\Desktop\OCms\WebApplication2\obj\Debug\netcoreapp2.2\WebApplication2.pdb
